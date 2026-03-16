@@ -45,6 +45,8 @@ else:
     print("Warning! Objects overflow will happen in the conveyer") 
 print("----------------------------------------")
 ```
+## OUTPUT
+![alt text](<maths 4.jpeg>)
 
 ## Result :
 Average number of materials in the system using single server infinite capacity executed successfully.
